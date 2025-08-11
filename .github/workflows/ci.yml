@@ -32,3 +32,5 @@ jobs:
           tags: |
             alade01/frontend:latest
             alade01/frontend:${{ github.sha }}
+
+
